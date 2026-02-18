@@ -1,1 +1,7 @@
 Hello, world! 
+
+-- Minhas Comidas Favoritas --
+
+-Sushi
+-Pizza
+-Salada de Frutas
